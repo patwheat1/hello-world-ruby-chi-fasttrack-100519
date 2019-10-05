@@ -1,1 +1,1 @@
-puts ""
+puts "Flatiron School is cool"
